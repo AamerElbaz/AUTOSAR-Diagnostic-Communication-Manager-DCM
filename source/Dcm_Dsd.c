@@ -10,7 +10,6 @@
 #include "include/Dcm_Dsd.h"
 #include "include/Dcm_Dsp.h"
 
-uint8 x,y;
 
 /**********************************
  * DSD-STATIC-FUNTIONS-PROTOTYPES *
